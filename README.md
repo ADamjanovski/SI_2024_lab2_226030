@@ -3,13 +3,12 @@
 # Андреј Дамјановски 226030
 
 # Control Flow Graph
-![CFGscreenshot.png](..%2F..%2FCFGscreenshot.png)
-
+![CFGscreenshot.png](CFGscreenshot.png)
 # Цикломатска комплексност
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10.
 
 # Every Branch
-![EveryBranch.png](..%2F..%2FEveryBranch.png)
+![EveryBranch.png](EveryBranch.png)
 Тест случаи според критериумот Every Branch
 
 allitems=null , payment=anything : Се изминуваат 1,2->3, 3->22
